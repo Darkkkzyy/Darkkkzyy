@@ -20,5 +20,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelt **alt="Svelt" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/sass-original.svg" title="Sass **alt="Sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass **alt="Sass" width="40" height="40"/>
 </div>
